@@ -1,6 +1,7 @@
-p {
-  font-family: Times 'Times New Roman', Times, serif;
-}
+export const environment = {
+  production: true
+};
+
 
 /*
 Copyright Google LLC. All Rights Reserved.
